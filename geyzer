@@ -1,0 +1,5 @@
+fun main() {
+    val arr = arrayOf(4, 2, 8, 5, 1)
+    val max = arr.maxOrNull()
+    println("Максимальный элемент: $max")
+}
